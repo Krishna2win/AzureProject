@@ -1,0 +1,15 @@
+{
+	"name": "shrikrishnafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "75fa8539-b588-4602-8c8d-ca08f6e748a0",
+		"tenantId": "0bd43492-3e60-4c8f-8971-9fc0d0a2936d"
+	}
+}
